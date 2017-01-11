@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Employee Cash",
-    "currentPage": "index.html",
+    "currentPage": "Locations.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,11 +21,11 @@
       }
     },
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.10",
-    "uniqCompNum": 26,
+    "uniqCompNum": 41,
     "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -107,12 +107,12 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-482x128-25.png",
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-4x-483x128-20.png",
               "height": 128,
               "alt": "Employee Cash",
               "link": "index.html",
@@ -121,12 +121,16 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 50,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
@@ -149,10 +153,10 @@
             "paddingTop": "6",
             "paddingBottom": "4",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background-5.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background_5.jpg",
             "bgColor": "#e3e2e2",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -215,10 +219,10 @@
             "paddingTop": "6",
             "paddingBottom": "5",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/sayagata-400px-2000x2000-87.png",
             "bgColor": "#e3e2e2",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -256,97 +260,6 @@
           "title": "Why EmployeeCash?",
           "text": "<br>EmployeeCash’s workplace loan focuses on length of service with an employer rather than an individual’s credit score. Our workplace loans are offered in partnership with an employer or a benefits intermediary as a voluntary benefit for employees and can be a tangible part of a financial awareness and education program that an employer may provide to its employees. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#09305c"
-            },
-            ".card-footer > small": {
-              "color": "#3d8eb9"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p>“Its really convient and easy to apply, I just went on the website and applied for a loan. Simple as that. ”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1462841764092-352b1d22ced3-160x105-80.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "Employee"
-            },
-            {
-              "text": "<p>“First of all hands off to you guys for your commitment to customer service. Good work. My employees are thrilled and it really gives them incentive to work that much harder and commit to their job long term ”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1455612693675-112974d4880b-160x106-55.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "Company Executive&nbsp;"
-            },
-            {
-              "text": "<p>“If I had to describe the service in one word.....Effortless.”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1479077155401-de210109e10a-160x106-60.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-6",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "count": 3,
-            "showImages": false,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background-2.jpg",
-            "bgColor": "#e3e2e2",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
-          },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "."
         },
         {
           "_tags": [
@@ -393,7 +306,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "+1 (484)432-0251",
           "media2": {
             "iconFont": {
               "active": true,
@@ -403,7 +316,7 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "2098 West Chester Pike, Suite 201<br>Broomall, PA 19008<br>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -413,13 +326,13 @@
               "family": "et-line"
             }
           },
-          "text4": "support@employeecash.com",
+          "text4": "nicole.souadda@employeemax.com",
           "title1": "Links&nbsp;",
-          "text5": "<li><a href=\"Services.html\">Services</a>&nbsp;</li><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@employeecash.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2098 West Chester Pike, Suite 201<br>Broomall, PA  19008<br>",
+          "text5": "<br><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li>Management</li>",
+          "text6": "",
           "form": {
             "title": "MESSAGE",
-            "action": "TahirSalman7@gmail.com",
+            "action": "nicole.souadda@employeemax.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -470,7 +383,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 EMPLOYEECASH."
+          "text": "Copyright (c) 2016 EmployeeMax Credit Solutions."
         }
       ]
     },
@@ -496,11 +409,11 @@
           "_anchor": "header5-e",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-3.jpg",
-            "bgColor": "#e7e7e7",
-            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -511,7 +424,7 @@
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "What We Offer....",
           "text": "Find out What makes EmployeeCash a great fit for your company<br>",
@@ -541,10 +454,10 @@
             "paddingTop": "3",
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-44.jpg",
-            "bgColor": "#dddddd",
-            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -587,10 +500,10 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-32.jpg",
-            "bgColor": "#cccccc",
-            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -600,7 +513,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": true
+            "showButton": false
           },
           "title": "&nbsp; How Will&nbsp;EmployeeCash Bring This Product to Market?",
           "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">The EmployeeCash loan program will be marketed to a variety of different organizations in the marketplace.  The ultimate objective is to create a relationship with an employer who has a tenured employee base.  The path leading to a strong employer relationship can be in different directions, either directly to employers, or indirectly through an intermediary who will act as a “sponsor” to the employer on the behalf of EmployeeCash.</span></p><p> &nbsp;&nbsp;&nbsp;&nbsp;Strong contenders for sponsorship of the EmployeeCash loan program include Employer Benefits Consultants and Third-party Administrators.  EmployeeCash will market its financial wellness loan program to these potential sponsors as a strong value add to the set of products and services they provide to the employers they represent.  A strong sponsorship by these influential parties will help EmployeeCash market the program to key employers. &nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Key characteristics of the employer will drive the success of the program, for both EmployeeCash and the employer.  Employers should be relatively large (&gt; 2,000 employees) to provide cost effective scale for the program.  The employee base should be well tenured with employees automatically approved if they have been with the company for at least 3 years and have relatively low employee turnover over a 3 year measurement period (&lt;10% per annum). &nbsp;</span></p><p><br></p>",
@@ -671,7 +584,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -690,7 +603,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
@@ -737,7 +650,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "+1 (484)432-0251",
           "media2": {
             "iconFont": {
               "active": true,
@@ -747,7 +660,7 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "2098 West Chester Pike, Suite 201<br>Broomall, PA 19008<br>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -757,10 +670,10 @@
               "family": "et-line"
             }
           },
-          "text4": "support@employeecash.com",
+          "text4": "nicole.souadda@employeemax.com",
           "title1": "Links&nbsp;",
-          "text5": "<li><a href=\"Services.html\">Services</a>&nbsp;</li><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@employeecash.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2098 West Chester Pike, Suite 201<br>Broomall, PA  19008<br>",
+          "text5": "<br><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li>Management</li>",
+          "text6": "",
           "form": {
             "title": "MESSAGE",
             "action": "TahirSalman7@gmail.com",
@@ -829,38 +742,42 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#1288d3"
+              "color": "#000000"
             },
             ".lead P": {
-              "color": "#000000"
+              "color": "#28324e"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#3d8eb9",
+              "font-size": "60px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-k",
+          "_anchor": "msg-box8-t",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-41.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#efefef",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
-          "title": "Where We Operate",
-          "text": "<p>Initially we will be offering the product to employers who have employees residing in these Select States.  Additional states will be added as the program grows with the ultimate objective of national coverage.</p>",
+          "title": "<br><span style=\"font-size: 3rem; line-height: 1.1;\">Where</span><span style=\"font-size: 3rem; line-height: 1.1; font-weight: normal;\"> </span><span style=\"font-size: 3rem; line-height: 1.1;\">We</span><span style=\"font-size: 3rem; line-height: 1.1; font-weight: normal;\"> </span><span style=\"font-size: 3rem; line-height: 1.1;\">Operate</span><br>",
+          "text": "<p>Licence Applicaton Pending.</p><p>Initially we will be offering the product to employers who have employees residing in these Select States. Additional states will be added as the program grows with the ultimate objective of national coverage.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -870,7 +787,7 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": 4,
             "images": [
               {
@@ -878,9 +795,49 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Colorado",
+                "thumb": "@PROJECT_PATH@/assets/images/delaware-b-2000x3100-28-800x1240-24.png",
+                "image": "@PROJECT_PATH@/assets/images/delaware-b-2000x3100-28.png",
+                "caption": "Delaware",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/illinois-2000x2816-25-800x1126-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/illinois-2000x2816-25.jpg",
+                "caption": "Illinois",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/indiana-2000x2797-46-800x1118-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/indiana-2000x2797-46.jpg",
+                "caption": "Indiana",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/new-jersey-2000x3100-42-800x1240-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-jersey-2000x3100-42.jpg",
+                "caption": "New Jersey",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/michigan-2000x2234-32-800x893-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/michigan-2000x2234-32.jpg",
+                "caption": "Michigan",
                 "active": false
               },
               {
@@ -888,76 +845,43 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Delaware"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Illinois"
+                "thumb": "@PROJECT_PATH@/assets/images/pennsylvania-2000x1340-34-800x536-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pennsylvania-2000x1340-34.jpg",
+                "caption": "Pennsylvania",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Indiana"
+                "thumb": "@PROJECT_PATH@/assets/images/texas-2000x1940-32-800x776-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/texas-2000x1940-32.jpg",
+                "caption": "Texas",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Michigan"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "New Jersey"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Pennsylvania"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Texas"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wisconsin-2000x2083-88-800x833-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wisconsin-2000x2083-88.jpg",
                 "caption": "Wisconsin",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/free-colorado-clipart-free-clipart-graphics-images-and-photos-55fc1c-clipart-2000x1617-51-800x646-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/free-colorado-clipart-free-clipart-graphics-images-and-photos-55fc1c-clipart-2000x1617-51.jpg",
+                "caption": "Colorado",
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": "2",
             "showText": true,
             "filter": false,
             "bgColor": "#efefef",
@@ -965,7 +889,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery2-j",
+          "_anchor": "gallery2-w",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1034,12 +958,12 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-482x128-25.png",
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-482x128-13.png",
               "height": 128,
               "alt": "Employee Cash",
               "link": "#top",
@@ -1053,7 +977,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
@@ -1100,7 +1024,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "+1 (484)432-0251",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1110,7 +1034,7 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "2098 West Chester Pike, Suite 201<br>Broomall, PA 19008<br>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -1120,10 +1044,10 @@
               "family": "et-line"
             }
           },
-          "text4": "support@employeecash.com",
+          "text4": "nicole.souadda@employeemax.com",
           "title1": "Links&nbsp;",
-          "text5": "<li><a href=\"Services.html\">Services</a>&nbsp;</li><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@employeecash.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2098 West Chester Pike, Suite 201<br>Broomall, PA  19008<br>",
+          "text5": "<br><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li>Management</li>",
+          "text6": "",
           "form": {
             "title": "MESSAGE",
             "action": "TahirSalman7@gmail.com",
@@ -1205,11 +1129,11 @@
           "_anchor": "header1-o",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/bg-6-full-2000x1125-42.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1220,7 +1144,7 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "<span style=\"letter-spacing: -2px; line-height: 1.1;\">Our Mission Statement</span><br>",
           "text": "<br>Lower financial stress leads to overall better personal well-being and a more productive employee.  All employees which meet the minimum tenure requirement are eligible for this product, creating an employee environment that offers a financial safety net for employees that have limited access to mainstream credit products for that unexpected, or even planned event, where using available cash <br><span style=\"line-height: 1.5;\">or credit may be challenging.</span><br><span style=\"line-height: 1.5;\">&nbsp;</span><br>EmployeeCash’s workplace loan focuses on length of service with an employer rather than an individual’s credit score. Our workplace loans are offered in partnership with an employer or a benefits intermediary as a voluntary benefit for employees and can be a tangible part of a financial awareness and education program that an employer may provide to its employees.&nbsp;<br>",
@@ -1291,7 +1215,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1310,7 +1234,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
@@ -1357,7 +1281,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "+1 (484)432-0251",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1367,7 +1291,7 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "2098 West Chester Pike, Suite 201<br>Broomall, PA 19008<br>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -1377,10 +1301,10 @@
               "family": "et-line"
             }
           },
-          "text4": "support@employeecash.com",
+          "text4": "nicole.souadda@employeemax.com",
           "title1": "Links&nbsp;",
-          "text5": "<li><a href=\"Services.html\">Services</a>&nbsp;</li><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@employeecash.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>2098 West Chester Pike, Suite 201<br>Broomall, PA  19008<br>",
+          "text5": "<br><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li>Management</li>",
+          "text6": "",
           "form": {
             "title": "MESSAGE",
             "action": "TahirSalman7@gmail.com",
@@ -1435,6 +1359,306 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 EMPLOYEECASH."
+        }
+      ]
+    },
+    "Management.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#3d8eb9",
+              "font-size": "60px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".lead P": {
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Management",
+          "text": "<br><div>&nbsp;</div><div>&nbsp;</div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#4daee2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-14",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Nicole Souadda",
+          "text": "<p><br></p><p>Nicole has been involved in and managed the operations of businesses for over 20 years in multiple industries such as manufacturing, insurance, financial services, education and security.  Nicole brings to an organization 5+ years of experience as a Board Secretary in both private and public companies.</p><div>&nbsp;</div><div>Nicole’s most recent experience in the payroll processing  industry as the Chief Operating Officer for EmployeeMax led to her role at EmployeeCash when the need to focus on the lifecycle of an employee and that employee's financial wellness became an integral part of a unique and exciting way to offer a paradigm shift in how employers look at their employees in a more holistic way, understanding that an employee who is financially secure is an overall better and more productive employee.  Nicole's experience with government licensing procedures, compliance and operations make her a valuable member of the EmployeeCash leadership team.  Nicole's previous experience was with The Mint Corporation where she worked from 2008 – 2014.  She was originally recruited as the Project Manager for Mint’s largest client, Canadian Tire Financial Services, and ended her tenure with Mint as the Head of Compliance and Investor Relations.  Mint’s wholly owned subsidiary, Mint Middle East LLC, became the leading payroll processing and financial products group in the United Arab Emirates and the Kingdom of Saudi Arabia and today processes in excess of 300,000 payrolls per month.</div><div>&nbsp;</div><div>Nicole is also currently working as a project management and compliance consultant for a start-up Pennsylvania based insurance company primarily focused on preparing and submitting the required regulatory documents.</div><div>&nbsp;</div><div>Nicole spends most of her down time with her 2 college aged children.  Nicole recently sat on the Executive Board of CAIR Philadelphia, an Islamic charitable organization, as the Treasurer and was previously the Chairman of Amana Foundation, a PA based non-profit organization.  Nicole was a Director of the National Investor Relations Institute Virtual Chapter from 2013 – 2014 and does an extensive amount of volunteer work within her community.  Nicole recently graduated from the Emerging Leaders program through the Small Business Administration.</div><div>&nbsp;</div><div>&nbsp;</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#2969b0"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2969b0"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2969b0"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2969b0",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-x",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#2969b0",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-4x-483x128-20.png",
+              "height": 128,
+              "alt": "Employee Cash",
+              "link": "index.html",
+              "title": "Logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 50,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#090909",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-265x70-36.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact US",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (484)432-0251",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "2098 West Chester Pike, Suite 201<br>Broomall, PA 19008<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "nicole.souadda@employeemax.com",
+          "title1": "Links&nbsp;",
+          "text5": "<br><li>Mission Statement&nbsp;</li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li>Management</li>",
+          "text6": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nicole.souadda@employeemax.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#070707",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 EmployeeMax Credit Solutions."
         }
       ]
     }
