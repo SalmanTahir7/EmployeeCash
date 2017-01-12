@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Employee Cash",
-    "currentPage": "index.html",
+    "currentPage": "Board of Directors.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.10",
@@ -98,7 +98,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -575,7 +575,7 @@
           "_anchor": "menu-8",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -949,7 +949,7 @@
           "_anchor": "menu-f",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -1206,7 +1206,7 @@
           "_anchor": "menu-l",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -1461,7 +1461,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#4daee2"
+              "color": "#4daee2",
+              "text-align": "center"
             },
             ".lead P": {
               "font-size": "20px",
@@ -1517,10 +1518,10 @@
               "color": "#2969b0"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1555,7 +1556,7 @@
           "_anchor": "menu-x",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -1725,7 +1726,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#4daee2"
+              "color": "#4daee2",
+              "text-align": "center"
             },
             ".lead P": {
               "font-size": "20px",
@@ -1770,7 +1772,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#4daee2"
+              "color": "#4daee2",
+              "text-align": "center"
             },
             ".lead P": {
               "font-size": "20px",
@@ -1815,7 +1818,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#4daee2"
+              "color": "#4daee2",
+              "text-align": "center"
             },
             ".lead P": {
               "font-size": "20px",
@@ -1860,7 +1864,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#4daee2"
+              "color": "#4daee2",
+              "text-align": "center"
             },
             ".lead P": {
               "font-size": "20px",
@@ -1916,10 +1921,10 @@
               "color": "#2969b0"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1954,7 +1959,7 @@
           "_anchor": "menu-16",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",

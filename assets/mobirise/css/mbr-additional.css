@@ -781,6 +781,7 @@ h6,
 }
 #msg-box3-15 .mbr-section-title {
   color: #4daee2;
+  text-align: center;
 }
 #msg-box3-15 .lead P {
   font-size: 20px;
@@ -807,11 +808,11 @@ h6,
   color: #2969b0;
 }
 #menu-x .link {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 #menu-x .dropdown-item,
 #menu-x .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.921rem;
 }
 #menu-x .link:hover,
 #menu-x .dropdown-item:hover,
@@ -859,6 +860,7 @@ h6,
 }
 #msg-box3-19 .mbr-section-title {
   color: #4daee2;
+  text-align: center;
 }
 #msg-box3-19 .lead P {
   font-size: 20px;
@@ -873,6 +875,7 @@ h6,
 }
 #msg-box3-1a .mbr-section-title {
   color: #4daee2;
+  text-align: center;
 }
 #msg-box3-1a .lead P {
   font-size: 20px;
@@ -887,6 +890,7 @@ h6,
 }
 #msg-box3-1b .mbr-section-title {
   color: #4daee2;
+  text-align: center;
 }
 #msg-box3-1b .lead P {
   font-size: 20px;
@@ -901,6 +905,7 @@ h6,
 }
 #msg-box3-1c .mbr-section-title {
   color: #4daee2;
+  text-align: center;
 }
 #msg-box3-1c .lead P {
   font-size: 20px;
@@ -927,11 +932,11 @@ h6,
   color: #2969b0;
 }
 #menu-16 .link {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 #menu-16 .dropdown-item,
 #menu-16 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.921rem;
 }
 #menu-16 .link:hover,
 #menu-16 .dropdown-item:hover,
