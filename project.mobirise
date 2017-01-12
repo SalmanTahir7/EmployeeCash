@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Employee Cash",
-    "currentPage": "index.html",
+    "currentPage": "Board of Directors.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1387,7 +1387,7 @@
           "_anchor": "msg-box8-12",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -1743,7 +1743,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-19",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "5",
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
