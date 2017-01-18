@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Employee Cash",
-    "currentPage": "Board of Directors.html",
+    "currentPage": "Services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
@@ -328,7 +328,7 @@
           },
           "text4": "info@employeecash.net",
           "title1": "Links&nbsp;",
-          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li>",
+          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li><li><a href=\"Services.html\">Services</a></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -437,7 +437,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#1288d3"
+              "color": "#1288d3",
+              "font-size": "36px"
             },
             ".lead P": {
               "font-family": "'Roboto', sans-serif",
@@ -451,7 +452,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-b",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
@@ -470,7 +471,7 @@
             "showButton": false
           },
           "title": "What Does EmployeeCash Offer?&nbsp;",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;The loan that We offer is an unsecured personal installment loan with a term of 24 months.  An important aspect of the loan is that it is repaid through automatic payroll deductions. </p><p> &nbsp;&nbsp;&nbsp;&nbsp;Loan amounts of $2,000 - $7,000, will be offered/available online, will settle within 2 days to the employee’s bank account and will be available for any purpose providing for any gaps in the employee’s basic living needs, available for expected and unexpected events, as well as planned future events. </p><p> &nbsp;&nbsp;&nbsp;&nbsp;Examples range from medical expense deductibles to unforeseen basic living emergencies such as home or car repair and even vacation expenses. &nbsp;</p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;</p><p>&nbsp;The loan that we offer is an unsecured personal installment loan with a term of 24 months.  An important aspect of the loan is that it is repaid through automatic payroll deductions. </p><p> &nbsp;&nbsp;&nbsp;&nbsp;Loan amounts of $2,000 - $7,000, will be offered/available online, will settle within 2 days to the employee’s bank account and will be available for any purpose providing for any gaps in the employee’s basic living needs, available for expected and unexpected events, as well as planned future events. </p><p> &nbsp;&nbsp;&nbsp;&nbsp;Examples range from medical expense deductibles to unforeseen basic living emergencies such as home or car repair and even vacation expenses. &nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Apply for a Loan Today</a>"
         },
         {
@@ -537,10 +538,10 @@
               "color": "#2969b0"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -603,7 +604,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
@@ -672,7 +673,7 @@
           },
           "text4": "info@employeecash.net",
           "title1": "Links&nbsp;",
-          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li>",
+          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li><li><a href=\"Services.html\">Services</a></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",

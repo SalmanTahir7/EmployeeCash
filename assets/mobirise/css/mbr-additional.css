@@ -513,6 +513,7 @@ h6,
 }
 #msg-box3-b .mbr-section-title {
   color: #1288d3;
+  font-size: 36px;
 }
 #msg-box3-b .lead P {
   font-family: 'Roboto', sans-serif;
@@ -550,11 +551,11 @@ h6,
   color: #2969b0;
 }
 #menu-8 .link {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 #menu-8 .dropdown-item,
 #menu-8 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.921rem;
 }
 #menu-8 .link:hover,
 #menu-8 .dropdown-item:hover,
